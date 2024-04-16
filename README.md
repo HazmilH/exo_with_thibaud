@@ -1,4 +1,4 @@
-# exo_with_thibaud
+# Data quality check
 
 **Goal :**  
 Create a script to do a quality check with this condition :

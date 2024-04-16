@@ -4,7 +4,6 @@ import pandas as pd
 
 
 # list of column names
-
 column_names = ['festival_name', 'project', 'notification_date', 'submission_status', 'judging_status'] 
 
 def load_df(path_to_file):
